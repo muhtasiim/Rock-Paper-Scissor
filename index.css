@@ -1,0 +1,50 @@
+*{
+    margin: 1px;
+    padding: 2px;
+}
+.head {
+    background-color: brown;
+    padding: 11px;
+    width: 98%;
+    color: white;
+    
+}
+
+body{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+.container{
+    
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h2{
+    margin-inline: 33px;
+    cursor: pointer;
+}
+
+.result{
+    display: flex;
+     justify-content: center;
+}
+
+.game{
+    
+    text-align: center;
+}
+span{
+    display: flex;
+    justify-content: center;
+     
+
+
+}
+ img{
+ width: 60px;
+ cursor: pointer;
+    
+}
+

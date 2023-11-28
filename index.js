@@ -1,9 +1,5 @@
- // let a = Math.random();
-// let b = a * 3;
-// let c = Math.floor(b);
-// console.log(c);
- 
-function myFun1() {
+
+ function myFun1() {
     let a = Math.random();
     let b = a * 3;
     let c = Math.floor(b);

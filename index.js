@@ -1,4 +1,3 @@
-
  function myFun1() {
     let a = Math.random();
     let b = a * 3;

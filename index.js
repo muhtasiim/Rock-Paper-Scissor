@@ -28,8 +28,6 @@
         }
     }
 }
-
-
 function myFun2() {
     let a = Math.random();
     let b = a * 3;

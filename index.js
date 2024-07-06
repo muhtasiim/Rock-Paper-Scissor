@@ -36,7 +36,6 @@ function myFun2() {
     
 
     let paper = (document.getElementById("user").src = "paper.png");
-
     if (c == 0) {
         let rock = (document.getElementById("comp").src = "rock.png");
         if (rock && paper) {
